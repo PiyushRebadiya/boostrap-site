@@ -1,0 +1,378 @@
+.main {
+    /* background-color: #27475b5c; */
+}
+
+.firstDiv {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background: #051426 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.secondDiv {
+    top: 0px;
+    left: 0px;
+    height: 150px;
+    width: 100%;
+    background: white 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.mainline {
+    top: 16px;
+    left: 15px;
+    height: 32px;
+    text-align: center;
+    font: normal normal normal 24px/32px Quicksand;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.firstCol {
+    display: flex;
+}
+
+.firstIcon {
+    height: 110px;
+    opacity: 1;
+    position: relative;
+    font-size: 80px;
+    left: 20px;
+    top: 20px
+}
+
+.secondH1 {
+    opacity: 1;
+    font-size: 80px;
+    position: relative;
+    left: 350px;
+    bottom: 100px;
+    font-family: fantasy;
+}
+
+.secondIcon {
+    height: 110px;
+    opacity: 1;
+    position: relative;
+    font-size: 80px;
+    left: 1000px;
+    bottom: 192px
+}
+
+.thirdMain {
+    width: 60%;
+    height: 2620px;
+    border: 2px solid #d4d2d2e0;
+    opacity: 1;
+    margin: 0px 385px
+}
+
+.firstThirdH1 {
+    font-size: 5rem;
+    font-family: auto
+}
+
+.secondThirdP {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    font-family: monospace
+}
+
+.bgColor {
+    background-color: #F4F5F7;
+    border: 1px solid red;
+    height: 50px
+}
+
+.bgColor2 {
+    background-color: #F9B50A;
+    border: 1px solid red;
+    text-align: center;
+    height: 50px
+}
+
+.thirdThirdP {
+    color: #979797;
+    font-size: 1.5rem
+}
+
+.companyCategory {
+    width: 700px;
+    height: 50px;
+}
+
+.searchIcon {
+    position: relative;
+    left: 150px;
+    bottom: 45px;
+    font-size: 30px;
+    color: #979797
+}
+
+.downIcon {
+    position: relative;
+    left: 150px;
+    bottom: 50px;
+    font-size: 45px;
+    color: #979797;
+}
+
+.firstRowside {
+    position: relative;
+    left: 15px;
+}
+
+.secondRowside {
+    position: relative;
+    left: 290px;
+    bottom: 50px;
+}
+
+.thirdRowside {
+    position: relative;
+    left: 565px;
+    bottom: 100px;
+}
+
+.fourthContainer {
+    position: relative;
+    bottom: 75px;
+}
+
+.fourthFirstP {
+    color: black;
+    font-size: 2rem;
+}
+
+.fourthSecondP {
+    color: black;
+    font-size: 2rem;
+    position: relative;
+    left: 400px;
+    bottom: 63px
+}
+
+.fourthThirdP {
+    color: blue;
+    font-size: 2rem;
+    position: relative;
+    left: 550px;
+    bottom: 127px;
+}
+
+.fourthFourthP {
+    color: #707070;
+    font-size: 50px;
+    position: relative;
+    left: 900px;
+    bottom: 200px;
+}
+
+.fiveContainer {
+    position: relative;
+    bottom: 200px;
+}
+
+.imgData {
+    height: 220px;
+    width: 250px;
+    border-radius: 20px
+}
+
+.fiveSecondDivp {
+    font-size: 40px;
+    color: #919191;
+    position: relative;
+    top: 40px;
+}
+
+.fiveSecondDivH1 {
+    font-size: 70px;
+    color: black;
+    position: relative;
+    top: 20px;
+}
+
+.fiveThirdDivp {
+    font-size: 33px;
+    color: #919191;
+    position: relative;
+    top: 70px
+}
+
+.fiveThirdDivpColor {
+    font-size: 30px;
+    color: #FAC94E;
+    position: relative;
+    top: 70px;
+}
+
+.fiveThirdDiv {
+    text-align: center;
+}
+
+.bookmarkIcon {
+    font-size: 80px;
+    position: relative;
+    left: 50px;
+    top: 60px;
+    color: #A4A4A4;
+}
+
+.bookmarkIconColor {
+    font-size: 80px;
+    position: relative;
+    left: 50px;
+    top: 60px;
+    background-color: white;
+    color: #FAC94E;
+}
+
+.bg {
+    background-color: royalblue;
+}
+
+.bg2 {
+    background-color: red;
+}
+
+.bg3 {
+    background-color: green;
+}
+
+.forthmainRow {
+    position: relative;
+    top: 20px;
+}
+
+.fourthcColMainP {
+    color: black;
+    font-size: 20px;
+}
+
+.fourthcColMainColorP {
+    font-size: 20px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: azure;
+}
+
+.fourthcColMain {
+    text-align: center;
+}
+
+.leftIcon {
+    font-size: 50px;
+    position: relative;
+    left: 100px;
+    bottom: 12px;
+}
+
+.rightIcon {
+    font-size: 50px;
+    position: relative;
+    bottom: 12px;
+}
+
+.fiveMainContainer{
+    position: relative;
+    top: 30px;
+}
+
+.fivemainColH1{
+    font-size: 4.5rem;
+    font-family: -webkit-body;
+}
+
+.sixMainContainer{
+    position: relative;
+    top: 40px;
+}
+
+.sixImageData{
+    height: 200px;
+    width: 350px;
+}
+
+.sixmainColH1{
+    font-size: 50px;
+    position: relative;
+    top: 10px;
+}
+
+.sixmainColp{
+    color: #A4A4A4;
+    font-size: 30px;
+    position: relative;
+    top: 10px;
+}
+
+.sixMainRow{
+    position: relative;
+    height: 220px;
+}
+
+.posterImgData{
+    height: 900px;
+    width: 100%;
+}
+
+.eightMainContainer{
+    position: relative;
+    top: 15px;
+    text-align: center;
+    color: #7D7D7D;
+}
+
+.eightMaincolH1{
+    font-size: 50px;
+}
+
+.lastContainer{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    background-color: #222222;
+    height: 300px;
+}
+
+.lastFirstCol{
+    top: 70px;
+}
+
+.lastSecondCol{
+    top: 90px;
+}
+
+.inputDesign{
+    width: 800px;
+    height: 70px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 30px;
+    background-color: #f8f9fadb;
+}
+
+.btnDesign{
+    background-color: #F9B50A;
+    color: black;
+    height: 74px;
+    width: 160px;
+    border-radius: 53px;
+    position: relative;
+    right: 65px;
+    font-size: 30px;
+}
+
+.lastThirdCol{
+    position: relative;
+    top: 110px;
+}
+
+.lastcolh3{
+    color: #5B5B5B;
+}
