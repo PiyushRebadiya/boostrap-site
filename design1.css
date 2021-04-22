@@ -83,13 +83,11 @@
 
 .bgColor {
     background-color: #F4F5F7;
-    border: 1px solid red;
     height: 50px
 }
 
 .bgColor2 {
     background-color: #F9B50A;
-    border: 1px solid red;
     text-align: center;
     height: 50px
 }
