@@ -40,7 +40,8 @@
     position: relative;
     font-size: 80px;
     left: 20px;
-    top: 20px
+    top: 20px;
+    color: darkslategray;
 }
 
 .secondH1 {
@@ -50,6 +51,7 @@
     left: 350px;
     bottom: 100px;
     font-family: fantasy;
+    color: orangered;
 }
 
 .secondIcon {
@@ -58,7 +60,8 @@
     position: relative;
     font-size: 80px;
     left: 1000px;
-    bottom: 192px
+    bottom: 192px;
+    color: blue;
 }
 
 .thirdMain {
