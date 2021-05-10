@@ -56,14 +56,24 @@ hr{
     height: 350px;
     width: 105%;
     padding: 10px;
+    object-fit: cover;
+    object-position: 0% 25%;
+    opacity: 0.8;
 }
+.imgGrid:hover {
+    opacity: 1;
+}
+
 
 .threeGrid{
     height: 350px;
+    object-fit: cover;
+    object-position: 0% 0%;
 }
 
 .card {
     background-color: #80808054;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .container > h4 {
@@ -123,3 +133,4 @@ li > b {
     background-color: black;
     color: white;
 }
+
