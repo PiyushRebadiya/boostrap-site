@@ -1,0 +1,125 @@
+.main {
+    width: 100%;
+    height: auto;
+}
+
+.firstRowUl > li {
+    list-style: none;
+    padding: 5px;
+    font-size: x-large;
+    font-family: monospace;
+    color: white;
+}
+
+.firstRowUl > li:hover {
+    background-color: white;
+    color: black;
+}
+
+.headingH3Tag {
+    position: absolute;
+    font-family: cursive;
+    bottom: 0px;
+    font-size: xx-large;
+}
+
+ul{
+    position: absolute;
+    padding-left: 0px
+}
+
+.firstMainDiv{
+    height: 969px;
+    background-color: #f44336;
+    position: fixed;
+}
+
+.childFirstMainDiv{
+    position: absolute;
+    top: 150px;
+}
+
+h2 {
+    color: #f44336;
+    font-size: xx-large;
+    font-family: unset;
+}
+
+hr{
+    width: 50px;
+    border: 5px solid red;
+    border-radius: 4px;
+    margin-top: 0;
+}
+
+.imgGrid {
+    height: 350px;
+    width: 105%;
+    padding: 10px;
+}
+
+.threeGrid{
+    height: 350px;
+}
+
+.card {
+    background-color: #80808054;
+}
+
+.container > h4 {
+    position: relative;
+    top: 2px;
+}
+
+.firstli {
+    background-color: #616161;
+    color: white;
+    font-size: xxx-large;
+}
+
+.secondli {
+    background-color: #f44336;
+    color: white;
+    font-size: xxx-large;
+}
+
+.firstul {
+    background-color: #f1f1f1;
+    text-align: center;
+    width: 39%;
+}
+
+.firstul > li {
+   border-bottom: 1px solid #ddd;
+    padding: 20px;
+    list-style: none;
+    font-family: math;
+}
+
+li > b {
+    font-size: large;
+}
+
+.firstSign{
+    background-color: white;
+    color: black;
+    height: 40px;
+    width: 100px;
+}
+
+.firstSign:hover {
+ background-color: black;
+ color: white;
+}
+
+.secondSign{
+    background-color: #f44336;
+    color: white;
+    height: 40px;
+    width: 100px;
+}
+
+.secondSign:hover {
+    background-color: black;
+    color: white;
+}
