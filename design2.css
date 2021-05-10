@@ -84,13 +84,13 @@ hr{
 .firstli {
     background-color: #616161;
     color: white;
-    font-size: xxx-large;
+    font-size: xxx-large !important;
 }
 
 .secondli {
     background-color: #f44336;
     color: white;
-    font-size: xxx-large;
+    font-size: xxx-large !important;
 }
 
 .firstul {
@@ -104,6 +104,7 @@ hr{
     padding: 20px;
     list-style: none;
     font-family: math;
+    font-size: larger;
 }
 
 li > b {
