@@ -1,4 +1,4 @@
-.main {
+.mainDiv {
     /* background-color: #27475b5c; */
 }
 
@@ -66,7 +66,7 @@
 
 .thirdMain {
     width: 60%;
-    height: 2620px;
+    height: 2660px;
     border: 2px solid #d4d2d2e0;
     opacity: 1;
     margin: 0px 385px
@@ -377,4 +377,8 @@
 
 .lastcolh3{
     color: #5B5B5B;
+}
+
+.btnDesign:focus {
+    outline: none;
 }
